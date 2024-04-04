@@ -179,6 +179,14 @@ body {
   position: relative;
 }
 
+.border {
+  border: 2px solid #a775f1;
+}
+
+.border2 {
+  border: 2px solid var(--Moderate-violet);
+}
+
 .card-daniel .first-paragraph {
   margin-bottom: 2.5rem;
   position: relative;
